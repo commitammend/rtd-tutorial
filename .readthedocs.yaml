@@ -10,4 +10,5 @@ python:
     - requirements: docs/requirements.txt
 
 sphinx:
+  sphinx.fail_on_warning
   configuration: docs/source/conf.py
